@@ -10,7 +10,7 @@ There is no publicly available Bollywood actors' face dataset, so I scrapped the
 
 ### Training
 <div>
-<img src='https://github.com/milsun/Bollywood-VAE/blob/master/images/loss.png', width="100%">
+<img src='https://github.com/milsun/Bollywood-VAE/blob/master/images/loss.png', width="40%">
 </div>
 
 ### Samples
@@ -41,5 +41,5 @@ Generated images are far from ideal, mainly because input data was quite dirty a
 
 **New Samples**
 <div>
-	<img src='https://github.com/milsun/Bollywood-VAE/blob/master/images/gen.png', width="100%">
+	<img src='https://github.com/milsun/Bollywood-VAE/blob/master/images/gen.png', width="60%">
 </div>
